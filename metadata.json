@@ -1,0 +1,6 @@
+{
+  "name": "Trigen Scanner",
+  "description": "Cloudflare clean-IP scanner (IPv4 & IPv6) for restricted networks with split-timeout probing, TLS SNI verification, and Persian/English bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
